@@ -1,0 +1,25 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STRfong/example-gh-pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/STRfong/example-gh-pages/issues"
+  },
+  "homepage": "https://github.com/STRfong/example-gh-pages#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
+
